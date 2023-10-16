@@ -10,9 +10,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,babel,nodejs,postman,mongodb,jest,git,express,nginx)](https://skillicons.dev)
 
 ### ☎️ **Мои контакты** 💬
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/andreikodev)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/andreyklepko)
 ![Static Badge](https://img.shields.io/badge/Email-klepkoandrey@gmail.com-blue)
+![Static Badge](https://img.shields.io/badge/Telegram-@andreikodev-blue)
 
 
 <!--
