@@ -13,6 +13,10 @@
 ![Static Badge](https://img.shields.io/badge/Email-klepkoandrey@gmail.com-blue)
 ![Static Badge](https://img.shields.io/badge/Telegram-@andreikodev-blue)
 
+### 📊 **Моя статистика** 📈
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreiklepko88&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreiklepko88&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreiklepko88&theme=github)
 
 <!--
 **andreiklepko88/andreiklepko88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
